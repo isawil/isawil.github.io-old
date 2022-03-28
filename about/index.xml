@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Shiloh Williams</title>
+    <link>https://isawil.net/about/</link>
+    <description>Recent content in Abouts on Shiloh Williams</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://isawil.net/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://isawil.net/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://isawil.net/about/about/</guid>
+      <description>My name is Shiloh Williams and I use they/them pronouns. I currently work as the Acting Head of the Digital Scholarship Lab and the Map, Data &amp;amp; GIS Library at Brock University, where I provide instructional and research support for data science on campus. Prior to that, I was the Data Visualization and GIS Librarian at the University of Texas at Arlington. I have also worked at the University of California, Los Angeles (UCLA) and the Center for the Study of Political Graphics, where I analyzed and visualized collections data.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shiloh Williams</title>
+    <link>https://isawil.net/</link>
+    <description>Recent content on Shiloh Williams</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://isawil.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://isawil.net/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://isawil.net/about/about/</guid>
+      <description>My name is Shiloh Williams and I use they/them pronouns. I currently work as the Acting Head of the Digital Scholarship Lab and the Map, Data &amp;amp; GIS Library at Brock University, where I provide instructional and research support for data science on campus. Prior to that, I was the Data Visualization and GIS Librarian at the University of Texas at Arlington. I have also worked at the University of California, Los Angeles (UCLA) and the Center for the Study of Political Graphics, where I analyzed and visualized collections data.</description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://isawil.net/resume/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://isawil.net/resume/cv/</guid>
+      <description>Hello </description>
+    </item>
+    
+    <item>
+      <title>Data Science Portfolio</title>
+      <link>https://isawil.net/portfolio/data-portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://isawil.net/portfolio/data-portfolio/</guid>
+      <description>While working at academic institutions I have had the opportunity to work on various data science projects, including the following, some of which is discussed in my blog.
+COVID-19 dashboard In collaboration with Peace Ossom Williamson, I created a Tableau dashboard that reported COVID-19 case counts in the Dallas-Fort Worth Metroplex. The insights gained from the process informed an analysis of public health data availability that I co-authored and which was peer-reviewed and published in JMIR Public Health and Surveillance.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://isawil.net/resume/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://isawil.net/resume/resume/</guid>
+      <description>Employment Acting Head, Digital Scholarship Lab / Map, Data &amp;amp; GIS Library Brock University, St. Catharines, Ontario, Canada January 2022 to Present
+GIS and Data Services Librarian Brock University, St. Catharines, Ontario, Canada June 2021 to Present
+Data Visualization and GIS Librarian University of Texas at Arlington, Arlington, Texas, United States July 2019 to May 2021
+Graduate Assistant University of California, Los Angeles April 2017 to June 2019
+Graduate Intern Center for the Study of Political Graphics</description>
+    </item>
+    
+  </channel>
+</rss>
