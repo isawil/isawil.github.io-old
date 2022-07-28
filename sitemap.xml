@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://isawil.net/links/</loc>
+    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://isawil.net/links/links/</loc>
+    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://isawil.net/</loc>
+    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://isawil.net/about/about/</loc>
   </url><url>
     <loc>https://isawil.net/about/</loc>
@@ -19,8 +28,6 @@
     <loc>https://isawil.net/resume/</loc>
   </url><url>
     <loc>https://isawil.net/series/</loc>
-  </url><url>
-    <loc>https://isawil.net/</loc>
   </url><url>
     <loc>https://isawil.net/tags/</loc>
   </url>

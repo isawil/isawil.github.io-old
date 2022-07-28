@@ -6,7 +6,26 @@
     <description>Recent content on Shiloh Williams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://isawil.net/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 12 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://isawil.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Links</title>
+      <link>https://isawil.net/links/links/</link>
+      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://isawil.net/links/links/</guid>
+      <description>Drawing inspiration from Anthony D&amp;rsquo;Angelo (and the weblogs of yore), here is a collection of places on the internet that I like a lot.
+Education:
+Photography:
+Alternative Processes
+C41 Lab ~ a Windows command line script for turning C-41 negatives into color images.
+Writing:
+Jenny Odell
+Shannon Mattern
+Art:
+#HOLZERvsHOLZER</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://isawil.net/about/about/</link>
@@ -23,7 +42,10 @@ I have also worked at the University of California, Los Angeles (UCLA) (at the D
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://isawil.net/resume/cv/</guid>
-      <description>Employment GIS and Data Services Librarian
+      <description>Employment Product Lead, Data Management Planning
+Digital Research Alliance of Canada, expected start August 2022
+Remote, Canada
+GIS and Data Services Librarian
 Brock University, June 2021 to Present
 St. Catharines, Ontario, Canada
 Acting Head, Digital Scholarship Lab / Map, Data &amp;amp; GIS Library
@@ -31,10 +53,7 @@ Brock University, January 2022 to May 2022
 St. Catharines, Ontario, Canada
 Data Visualization and GIS Librarian
 University of Texas at Arlington, July 2019 to May 2021
-Arlington, Texas, United States
-Graduate Assistant
-UCLA Digital Library Program, April 2017 to June 2019
-Los Angeles, California, United States</description>
+Arlington, Texas, United States</description>
     </item>
     
     <item>
